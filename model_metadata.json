@@ -1,0 +1,41 @@
+{
+  "training_date": "2026-01-11T21:07:32.386494",
+  "test_accuracy": 0.7924242615699768,
+  "test_loss": 0.3871191143989563,
+  "num_classes": 2,
+  "class_names": [
+    "benign",
+    "malignant"
+  ],
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "base_model": "EfficientNetB0",
+  "epochs": 30,
+  "batch_size": 64,
+  "train_samples": 2109,
+  "val_samples": 528,
+  "test_samples": 660,
+  "use_augmentation": true,
+  "two_phase_training": true,
+  "class_weights": {
+    "0": 3.6999999999999997,
+    "1": 4.352941176470588
+  },
+  "confusion_matrix": [
+    [
+      326,
+      34
+    ],
+    [
+      103,
+      197
+    ]
+  ],
+  "per_class_accuracy": {
+    "benign": 0.9055555555555556,
+    "malignant": 0.6566666666666666
+  }
+}
