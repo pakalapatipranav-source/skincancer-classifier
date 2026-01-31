@@ -461,9 +461,8 @@ Available at `http://localhost:5000`
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Email: pakalapati.pranav@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pranav-pakalapati-32264736a/
 
 ---
 
